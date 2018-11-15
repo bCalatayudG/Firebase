@@ -14,4 +14,5 @@ Use MVP, RxJava, Gson, Retrofit and Repository pattern.
 
 ![alt text][Ejercicio1]
 
-[Ejercicio1]: 
+[Ejercicio1]:  https://github.com/bCalatayudG/Week4-Daily3/Screenshots/img_1.png
+      
